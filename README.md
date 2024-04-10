@@ -51,3 +51,6 @@ This code snippet provides a simple yet effective countdown timer with automatic
   - Defines a function to decrement the countdown and update the display.
   - Uses `setInterval` to repeatedly call the update function every second.
   - When the countdown reaches zero, it clears the interval and uses `window.location.href` to redirect the user.
+ 
+  - You can preview the widget in action here: https://simple-redirect-widget.glitch.me/
+  - A use case for this may be for a 404 page if there's no alternatives.
